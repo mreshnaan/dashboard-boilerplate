@@ -19,8 +19,20 @@ a {
   html {
     color-scheme: dark;
   }
+
   body {
     color: white;
     background: black;
   }
+}
+
+.css-eeleuj>*:not(style)~*:not(style) {
+  margin-inline-start: 0rem !important
+}
+.css-1987qej{
+  z-index: 14 !important;
+
+}
+.css-1yb2anq{
+  z-index: 14 !important;
 }
